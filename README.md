@@ -33,3 +33,4 @@ Heatmaps (if included)
 
 📈 Business Impact:
 Provides HR decision-makers with a complete view of employee engagement and attrition, helping them focus on problem areas and plan workforce strategies effectively.
+https://github.com/Rutuja-3-coder/HR-dashboard/blob/main/HR%20dashboard.jpeg
